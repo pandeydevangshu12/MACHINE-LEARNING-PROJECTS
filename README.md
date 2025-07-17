@@ -37,7 +37,7 @@ An interactive machine learning app that suggests similar books based on your fa
 ---
 
 ### 📖 Trying Another Example
-> Selecting a different title like *"Fictional Points of View"* generates new, relevant book suggestions.
+> Selecting a different title like *"Philosophy of david cronenberg"* generates new, relevant book suggestions.
 <img width="1092" height="900" alt="Screenshot 2025-07-17 092907" src="https://github.com/user-attachments/assets/9a41c4ef-1ed3-4ab4-9e66-37f53fda8999" />
 
 
