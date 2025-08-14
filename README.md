@@ -13,8 +13,6 @@ An interactive machine learning app that suggests similar books based on your fa
 
 ---
 
-## 🖼️ Screenshots
-
 ### 🏠 Home Interface
 > The landing page of the app allows users to select any book from the dropdown and get personalized recommendations.
 <img width="1919" height="805" alt="Screenshot 2025-07-17 092439" src="https://github.com/user-attachments/assets/0a0bf929-9082-403e-924b-a354736a5d0d" />
